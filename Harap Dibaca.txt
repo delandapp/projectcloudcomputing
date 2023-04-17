@@ -1,0 +1,12 @@
+Untuk memasukan database :
+
+1. Pastikan sudah install XAMPP
+2. Buat dulu database dengan nama 'phpnativecrud'
+3. Import file .sql yang terdapat di dalam folder database ke dalam database 'phpnativecrud'
+
+Selamat Mencoba semoga membantu
+
+Berikan dukungan kepada saya di https://saweria.co/dimaspndw
+Ada project hubungi https://wa.me/6285866508766
+
+-- Dimas Iktiar Pandawi
